@@ -2,7 +2,8 @@
 
 1.- Información del sistema
 
-[Herramientas con enlace de Descarga](modulo0/modulo0.md)
+[Descripción](modulo0/modulo0md)
+[Enlace de Descarga]()
 
 2.-Testeo disco
 
