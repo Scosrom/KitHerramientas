@@ -1,6 +1,6 @@
 # KitHerramientas
 
-1.- **Información del sistema**
+##1.- **Información del sistema**
 
 HWiNFO
 
@@ -9,7 +9,7 @@ HWiNFO
 
 [Enlace de Descarga](https://www.hwinfo.com/download/)
 
-2.-**Testeo disco**
+##2.-**Testeo disco**
 
 Crystal Disk Info
 
@@ -17,7 +17,7 @@ Crystal Disk Info
 
 [Enlace de Descarga](https://crystalmark.info/en/software/crystaldiskinfo/)
 
-3.-**Recuperación de datos**
+##3.-**Recuperación de datos**
 
 Recoverit
 
@@ -25,13 +25,13 @@ Recoverit
 
 [Enlace de Descarga](https://recoverit.wondershare.es/deleted-recovery/undelete-freewares.html)
 
-4.-**Recuperación de contraseñas.**
+##4.-**Recuperación de contraseñas.**
 
 [Descripción](modulo3/modulo3.md)
 
 [Enlace de Descarga](https://www.nirsoft.net/password_recovery_tools.html)
 
-5.- **LIBRE**
+##5.- **LIBRE**
 
 [Herramientas con enlace de Descarga](modulo4/modulo4.md)
 
