@@ -9,11 +9,15 @@
 
 2.-Testeo disco
 
-[Herramientas con enlace de Descarga](modulo1/modulo1.md)
+[Descripción](modulo1/modulo1.md)
+
+[Enlace de Descarga]
 
 3.-Recuperación de datos
 
-[Herramientas con enlace de Descarga](modulo2/modulo2.md)
+[Descripción](modulo2/modulo2.md)
+
+[Enlace de Descarga]
 
 4.-Recuperación de contraseñas.
 
