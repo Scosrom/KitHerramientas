@@ -2,7 +2,7 @@
 
 1.- Información del sistema
 
-HWiNFO
+**HWiNFO**
 
 [Descripción](modulo0/modulo0.md)
 
@@ -11,7 +11,7 @@ HWiNFO
 
 2.-Testeo disco
 
-Crystal Disk Info
+**Crystal Disk Info**
 
 [Descripción](modulo1/modulo1.md)
 
@@ -19,7 +19,7 @@ Crystal Disk Info
 
 3.-Recuperación de datos
 
-Recoverit
+**Recoverit**
 
 [Descripción](modulo2/modulo2.md)
 
