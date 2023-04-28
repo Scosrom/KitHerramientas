@@ -33,6 +33,8 @@ Recoverit
 
 ## 4.-**Recuperación de contraseñas.**
 
+NirSoft
+
 [Descripción](modulo3/modulo3.md)
 
 [Enlace de Descarga](https://www.nirsoft.net/password_recovery_tools.html)
