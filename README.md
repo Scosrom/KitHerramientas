@@ -1,20 +1,26 @@
 # KitHerramientas
 
 1.- Información del sistema
+
 HWiNFO
+
 [Descripción](modulo0/modulo0.md)
 
 
 [Enlace de Descarga]()
 
 2.-Testeo disco
+
 Crystal Disk Info
+
 [Descripción](modulo1/modulo1.md)
 
 [Enlace de Descarga]()
 
 3.-Recuperación de datos
+
 Recoverit
+
 [Descripción](modulo2/modulo2.md)
 
 [Enlace de Descarga]()
