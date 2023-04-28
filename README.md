@@ -7,7 +7,7 @@
 [Descripción](modulo0/modulo0.md)
 
 
-[Enlace de Descarga]()
+[Enlace de Descarga](https://www.hwinfo.com/download/)
 
 2.-Testeo disco
 
@@ -15,7 +15,7 @@
 
 [Descripción](modulo1/modulo1.md)
 
-[Enlace de Descarga]()
+[Enlace de Descarga](https://crystalmark.info/en/software/crystaldiskinfo/)
 
 3.-Recuperación de datos
 
@@ -23,7 +23,7 @@
 
 [Descripción](modulo2/modulo2.md)
 
-[Enlace de Descarga]()
+[Enlace de Descarga](https://recoverit.wondershare.es/deleted-recovery/undelete-freewares.html)
 
 4.-Recuperación de contraseñas.
 
