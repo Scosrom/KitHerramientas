@@ -19,7 +19,7 @@
 
 [Enlace de Descarga](https://crystalmark.info/en/software/crystaldiskinfo/)
 
-[Video]()
+[Video](https://youtu.be/_hO-E42Sqfg)
 
 ## 3.-**Recuperación de datos**
 
