@@ -9,7 +9,7 @@
 
 [Enlace de Descarga](https://www.hwinfo.com/download/)
 
-[Video]()
+[Video](https://youtu.be/siom775Q9aE)
 
 ## 2.-**Testeo disco**
 
