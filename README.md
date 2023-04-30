@@ -1,4 +1,4 @@
-# KitHerramientas
+# Kit de Herramientas
 ![depositphotos_30875557-stock-photo-toolkit-icon](https://user-images.githubusercontent.com/114906778/235368011-88b336c0-34a0-4238-b785-cb1b98fbb5f3.jpg)
 
 ## 1.- **Información del sistema**
