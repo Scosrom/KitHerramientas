@@ -39,7 +39,7 @@
 
 [Enlace de Descarga](https://www.nirsoft.net/password_recovery_tools.html)
 
-[Vídeo](https://studio.youtube.com/video/7o0m8yDc0Jw/edit)
+[Vídeo](https://youtu.be/Xtn9fjn2oFk)
 
 ## 5.- **LIBRE**
 
